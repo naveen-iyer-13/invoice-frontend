@@ -1,0 +1,12 @@
+.modal-container {
+  // text-align:center;
+  margin-bottom: 20px;
+  .details-container {
+    display: flex;
+    margin-top: 15px;
+    .details-heading {
+      font-size: 14px;
+      font-weight: 300;
+    }
+  }
+}

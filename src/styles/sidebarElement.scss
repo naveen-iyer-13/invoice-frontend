@@ -1,0 +1,27 @@
+
+.sidebar-element {
+  font-size: 14px;
+  padding: 15px;
+  border-bottom: 1px solid lightGrey;
+  padding-bottom: 5px;
+  height: 90px;
+  .headering {
+    float: left;
+  }
+  .time {
+    font-size: 12px;
+    color: grey;
+    float: right;
+  }
+  .items {
+    padding-top: 5px;
+  }
+  .customer-name {
+    color: #15a9ce;
+    float: left;
+  }
+  .price {
+    float: right;
+    font-size: 16px;
+  }
+}

@@ -1,0 +1,43 @@
+.modal-container {
+  // text-align:center;
+  margin-bottom: 20px;
+  .error-message {
+    font-size: 12px;
+    color: red;
+  }
+  .footer-container {
+    display: inline-block;
+    margin-top: 50px;
+    width: 100%;
+    .subtotal-container {
+      display: flex;
+      width: 200px;
+      float: right;
+    }
+  }
+  .heading-container {
+    display: flex;
+    margin-bottom: 15px;
+    .heading-left {
+      width: 65%;
+      padding-top: 15px;
+    }
+    .heading-right-container {
+      margin-right: 20px;
+      text-align: right;
+      .heading-right {
+        font-size: 10px;
+        opacity: 0.8;
+      }
+    }
+  }
+  .input-container {
+    display: flex;
+    margin-top: 15px;
+    .input-box {
+      margin-left: 20px;
+      width: 70px;
+      margin-right: 20px;
+    }
+  }
+}
