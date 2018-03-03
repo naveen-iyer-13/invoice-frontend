@@ -1,11 +1,11 @@
-# Cryptocurrency Tracker
+# Invoice Frontend
 
-A dashboard with the live list of cryptocurrencies which will update every 5 mins.
+A basic POS with React/Redux
 
 ### Installing
 
 ```
-- git clone git@github.com:naveen-iyer-13/cryptocurrency-tracker.git
+- git clone git@github.com:naveen-iyer-13/invoice-frontend.git
 ```
 ```
 - npm install
